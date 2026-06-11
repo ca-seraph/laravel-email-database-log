@@ -1,4 +1,4 @@
-(forked from: [shvetsgroup/laravel-email-database-log](https://github.com/shvetsgroup/laravel-email-database-log))
+(forked from: [magentron/laravel-email-database-log](https://github.com/Magentron/laravel-email-database-log))
 
 # Laravel Email Database Log
 
