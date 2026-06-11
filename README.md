@@ -11,7 +11,7 @@ A simple database logger for all outgoing emails sent by Laravel website.
 Laravel Email Database Log can be installed via [composer](http://getcomposer.org) by running this line in terminal:
 
 ```bash
-composer require magentron/laravel-email-database-log
+composer require caseraph/laravel-email-database-log
 ```
 
 ## Step 2: Configuration
